@@ -1,0 +1,23 @@
+{
+  "id": "1241182",
+  "name": "sz1908",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2970161",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6952320",
+      "name": "购物车-23",
+      "font_class": "gouwuche",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
